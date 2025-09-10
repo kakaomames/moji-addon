@@ -1,0 +1,29 @@
+{
+  "type": "array_of_arrays",
+  "data": [
+    {
+      "type": "bitmap",
+      "file": "textures/font/a.png",
+      "ascent": 8,
+      "chars": [
+        " \uE000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "textures/font/i.png",
+      "ascent": 8,
+      "chars": [
+        " \uE001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "textures/font/u.png",
+      "ascent": 8,
+      "chars": [
+        " \uE002"
+      ]
+    }
+  ]
+}
